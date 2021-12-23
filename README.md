@@ -7,5 +7,5 @@ Estoy especializándome en desarrollo de software, específicamente en el desarr
 
 
 ### Redes:
-[<img src="https://img.icons8.com/color/50/000000/linkedin.png"/>](https://www.linkedin.com/in/www.linkedin.com/in/jeremy-camus-varela/)  
+[<img src="https://img.icons8.com/color/50/000000/linkedin.png"/>](https://www.linkedin.com/in/jeremy-camus-varela/)  
 
