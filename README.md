@@ -4,16 +4,23 @@ Estoy especializándome en desarrollo de software, específicamente por la rama 
 
 ### Habilidades:
 #### Lenguajes de programación:
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/000000/external-python-an-interpreted-high-level-general-purpose-programming-language-logo-color-tal-revivo.png"/> <img src="https://img.icons8.com/offices/50/000000/php-logo.png"/> <img src="https://img.icons8.com/color/50/000000/javascript.png"/>
+
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+          
 
 #### Frontend: 
-<img src="https://img.icons8.com/color/50/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/50/000000/css3.png"/> <img src="https://img.icons8.com/office/50/000000/react.png"/>
+
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
+          
+          
 
 #### Backend:
-<img src="https://img.icons8.com/fluency/50/000000/node-js.png"/> <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/50/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo.png"/>     <img src="https://img.icons8.com/fluency/50/000000/laravel.png"/>
+
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" /> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
 
 #### Bases de datos: 
-<img src="https://img.icons8.com/color/60/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/50/000000/mongodb.png"/>  
+
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" /> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
 
 ### Redes:
 [<img src="https://img.icons8.com/color/50/000000/linkedin.png"/>](https://www.linkedin.com/in/jeremy-camus-varela/)  
