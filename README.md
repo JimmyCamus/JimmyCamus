@@ -1,6 +1,6 @@
 # Hola 👋, Soy Jeremy Camus
-#### Soy estudiante de ingeniería Civil en Computación e Informática en la Universidad Católica del Norte
-Estoy especializándome en desarrollo de software, específicamente por la rama del desarrollo web.
+#### Soy ingeniero civil en computación e informática (Ingeniería en sistemas) de la Universidad Católica del Norte
+Me especializo en desarrollo de software, específicamente en la rama del desarrollo web.
 
 ### Habilidades:
 #### Lenguajes de programación:
@@ -10,13 +10,13 @@ Estoy especializándome en desarrollo de software, específicamente por la rama 
 
 #### Frontend: 
 
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
           
           
 
 #### Backend:
 
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" /> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" /> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" /> <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
 
 #### Bases de datos: 
 
